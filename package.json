@@ -27,6 +27,7 @@
 		"eslint-plugin-import": "^2.2.0"
 	},
 	"dependencies": {
+		"fetch": "^1.1.0",
 		"read": "^1.0.7"
 	}
 }
